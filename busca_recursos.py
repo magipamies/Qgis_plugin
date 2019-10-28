@@ -196,7 +196,7 @@ class BuscaRecursos:
         """Create the menu entries and toolbar icons inside the QGIS GUI."""
         # Valor per defecte de la variable distancia
         self.distancia = 0
-        icon_path = ':/plugins/BuscaRecursos/icon.png'
+        icon_path = ':/plugins/BuscaRecursos/icon/icon.png'
         self.add_action(
             icon_path,
             text=self.tr(u'Buscador de recursos'),
