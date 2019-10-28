@@ -14,7 +14,7 @@ version=0.1
 author=Magí Pàmies Sans
 email=magipamies@gmail.com
 
-about=Plugin para poder buscar recursos en el territorio (y de un determinado tipo) cercanos a un recurso del mismo u otro tipo.
+about=Plugin que permet obtenir una capa vectorial amb els recursos de la categoria seleccionada, que es troben dins de la distància determinada d'una entitat de referència.
 
 tracker=https://github.com/magipamies/qgis_BuscaRecursos_pluguin
 repository=https://github.com/magipamies/qgis_BuscaRecursos_pluguin
