@@ -28,7 +28,7 @@ Issues, ideas and enhancements: [https://github.com/magipamies/qgis_BuscaRecurso
 
 ### Contact
 
-Magí Pàmies Sans: *magipamies (a) gmail.com*  
+Magí Pàmies Sans: *magipamies@gmail.com*  
 
 ## License
 
