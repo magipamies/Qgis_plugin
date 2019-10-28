@@ -1,7 +1,7 @@
-# This file contains metadata for your plugin. Since 
-# version 2.0 of QGIS this is the proper way to supply 
-# information about a plugin. The old method of 
-# embedding metadata in __init__.py will 
+# This file contains metadata for your plugin. Since
+# version 2.0 of QGIS this is the proper way to supply
+# information about a plugin. The old method of
+# embedding metadata in __init__.py will
 # is no longer supported since version 2.0.
 
 # This file should be included when you package your plugin.# Mandatory items:
@@ -16,8 +16,8 @@ email=magipamies@gmail.com
 
 about=Plugin para poder buscar recursos en el territorio (y de un determinado tipo) cercanos a un recurso del mismo u otro tipo.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/magipamies/qgis_BuscaRecursos_pluguin
+repository=https://github.com/magipamies/qgis_BuscaRecursos_pluguin
 # End of mandatory metadata
 
 # Recommended items:
@@ -26,9 +26,9 @@ repository=http://repo
 # changelog=
 
 # Tags are comma separated with spaces allowed
-tags=python
+tags=python,search,find
 
-homepage=http://homepage
+homepage=https://github.com/magipamies/qgis_BuscaRecursos_pluguin
 category=Plugins
 icon=icon.png
 # experimental flag
@@ -36,4 +36,3 @@ experimental=True
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
-
