@@ -8,7 +8,7 @@ Given a circular area defined by a facility (center) and a maximum distance
 (radius), plugin generates a points layer over OpenStreetMap map with all the
 target amenity instances found inside this area.
 
-When "BuscaRecursos" is launched next dialog is opened, from where the user can
+When "BuscaRecursos" is launched it will open a dialog from where the user can
 set and execute the pluggin. Configurable variables are:
 - City name
 - Search criteria (amenity).
