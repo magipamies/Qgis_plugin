@@ -196,7 +196,7 @@ class BuscaRecursos:
         """Create the menu entries and toolbar icons inside the QGIS GUI."""
         # Valor per defecte de la variable distancia
         self.distancia = 0
-        icon_path = ':/plugins/BuscaRecursos/icon/icon.png'
+        icon_path = ':/plugins/BuscaRecursos/icon.png'
         self.add_action(
             icon_path,
             text=self.tr(u'Buscador de recursos'),
@@ -374,7 +374,7 @@ class BuscaRecursos:
         distancia = float(self.dlg.distancia.value())
         if type(distancia) is float:
             self.distancia = distancia
-            print(u"Distància indruïda: %d" % (self.distancia))
+            print(u"Distància introduida: %d" % (self.distancia))
         else:
             iface.messageBar().pushMessage(
                 u"Introdueix un valor enter",

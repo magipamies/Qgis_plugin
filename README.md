@@ -3,8 +3,15 @@
 ![](icon/icon.png)
 
 BuscaRecursos és un plugin de Qgis que permet obtenir una capa vectorial amb els recursos de la categoria seleccionada, que es troben dins de la distància determinada d'una entitat de referència.
+The BuscaRecursos plugin allow to obtain a vectorial layer
 
-![](icon/formulari.png) ![](icon/formulari2.png)
+The following dialog box is displayed when "BuscaRecursos" is launched.
+![](icon/formulari.png)
+
+You have to put:
+ - 
+
+![](icon/formulari2.png)
 
 Read more in: [https://github.com/magipamies/qgis_BuscaRecursos_pluguin](https://github.com/magipamies/qgis_BuscaRecursos_pluguin)
 
