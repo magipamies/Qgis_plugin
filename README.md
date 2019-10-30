@@ -32,13 +32,15 @@ Once installed, it will be available in the `Plugins` menu and the `Plugins tool
 
 ### Manually
 
-Copy the pluggins files into the `BuscaRecursos` folder, inside the QGIS Python plugins directory.
+Copy the pluggins files into <QGIS Python plugins directory>/`BuscaRecursos` folder.
 
 *Windows note:* The QGIS plugin directory should be under `C:\Documents and Settings\<Username>\.qgis2\python\plugins\` (Windows XP) or `C:\Users\<Username>\.qgis2\python\plugins\` (Windows +7).
 
 *QGIS 1.8 note:* QGIS 1.8 stores its config into the `.qgis` directory.
 
-Once the plugin is loaded into the python directory, it can be enabled from the list of installed plugins in QGIS and then accessed from the plugins menu.
+Once the plugin is loaded into the python directory:
+- Enable it from the list.
+- Open it from the plugins menu.
 
 ### Via git
 
