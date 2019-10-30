@@ -56,7 +56,7 @@ Read more in: [https://github.com/magipamies/qgis_BuscaRecursos_pluguin](https:/
 
 ## Issue Tracker
 
-Don't hetisate to report your issues, ideas and enhancements! [https://github.com/magipamies/qgis_BuscaRecursos_pluguin/issues](https://github.com/magipamies/qgis_BuscaRecursos_pluguin/issues)
+Don't hesitate to report your issues, ideas and enhancements! [https://github.com/magipamies/qgis_BuscaRecursos_pluguin/issues](https://github.com/magipamies/qgis_BuscaRecursos_pluguin/issues)
 
 
 ### Contact
