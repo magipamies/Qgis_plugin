@@ -6,7 +6,7 @@ BuscaRecursos is a QGis plugin to look for city amenities near a defined
 facility.
 Given a circular area defined by a facility (center) and a maximum distance
 (radius), plugin generates a points layer over OpenStreetMap map with all the
-target amenity instances found inside the area.
+target amenity instances found inside this area.
 
 When "BuscaRecursos" is launched next dialog is opened, from where the user can
 set and execute the pluggin. Configurable variables are:
