@@ -3,11 +3,10 @@
 ![](icon/icon.png)
 
 The BuscaRecursos plugin generates a points vector layer for a certain type of
-OpenStreetMap amenity value, wich it finds inside a delimited area for a
+OpenStreetMap amenity available in a city, wich it finds inside a particular
+area. This area is delimited by the location of a amenity's facility and a
+maximum distance.
 
-BuscaRecursos és un plugin de Qgis que permet obtenir una capa vectorial amb els
-recursos de la categoria seleccionada, que es troben dins de la distància
-determinada d'una entitat de referència.
 
 The following dialog box is displayed when "BuscaRecursos" is launched.
 
@@ -15,10 +14,11 @@ The following dialog box is displayed when "BuscaRecursos" is launched.
 
 
 You have to put:
- - asdf
- - sadf
- - sadf
- - sdf
+ - City Name
+ - Amenity's value name that you want to generate the layer
+ - Maximum distance
+ - Amenity's value name of facility
+ - Facility name
 
 
 ![](icon/formulari2.png)
