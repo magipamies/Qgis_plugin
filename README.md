@@ -2,7 +2,7 @@
 
 ![](icon/icon.png)
 
-BuscaRecursos is a QGis plugin to look for city amenities close to a defined
+BuscaRecursos is a QGis plugin to look for city amenities near a defined
 facility.
 Given an circular area defined by a facility (center) and a maximum distance
 (radius), plugin generates a points layer over OpenStreetMap map with all the
@@ -22,23 +22,27 @@ set and execute the pluggin. Configurable variables are:
 
 ## Installation
 
-The plugin can be installed using the QGIS Plugin Manager, go into Qgis to `Plugins` menu and `Manage and install plugins`, in `All` section search for `BuscaRecursos`.
+### Via plugins menu
+The easier way to install it is using the QGIS Plugin Manager:
+- Open to the Qgis `Plugins` menu.
+- Click to  `Manage and install plugins`.
+- Search for `BuscaRecursos` into the `All` section.
 
-The plugin will be available in the `Plugins` menu and `Plugins toolbar`.
+Once installed, it will be available in the `Plugins` menu and the `Plugins toolbar`.
 
-### Manual
+### Manually
 
-The plugin files need to live in a directory called `BuscaRecursos` inside the QGIS Python plugins directory.
+Copy the pluggins files into the `BuscaRecursos` folder, inside the QGIS Python plugins directory.
 
 *Windows note:* The QGIS plugin directory should be under `C:\Documents and Settings\<Username>\.qgis2\python\plugins\` (Windows XP) or `C:\Users\<Username>\.qgis2\python\plugins\` (Windows +7).
 
-*QGIS 1.8 note:* QGIS 1.8 stores it config under a `.qgis` directory.
+*QGIS 1.8 note:* QGIS 1.8 stores its config into the `.qgis` directory.
 
-Once the plugin is loaded in the python directory, it can be enabled from the list of installed plugins in QGIS and then accessed from the plugins menu.
+Once the plugin is loaded into the python directory, it can be enabled from the list of installed plugins in QGIS and then accessed from the plugins menu.
 
-### Using git
+### Via git
 
-If you are using `git` then simply clone the repository into your QGIS python plugins directory:
+Clone the repository into your QGIS python plugins directory:
 
     cd ~/.qgis2/python/plugins/
     git clone https://github.com/magipamies/qgis_BuscaRecursos_pluguin.git BuscaRecursos
@@ -50,7 +54,7 @@ Read more in: [https://github.com/magipamies/qgis_BuscaRecursos_pluguin](https:/
 
 ## Issue Tracker
 
-Issues, ideas and enhancements: [https://github.com/magipamies/qgis_BuscaRecursos_pluguin/issues](https://github.com/magipamies/qgis_BuscaRecursos_pluguin/issues)
+Don't hetisate to report your issues, ideas and enhancements! [https://github.com/magipamies/qgis_BuscaRecursos_pluguin/issues](https://github.com/magipamies/qgis_BuscaRecursos_pluguin/issues)
 
 
 ### Contact
@@ -59,4 +63,4 @@ Magí Pàmies Sans: *magipamies@gmail.com*
 
 ## License
 
-BuscaRecursos is a free/libre software and is licensed under the GNU General Public License.
+BuscaRecursos is a free/libre software that's licensed under the GNU General Public License.
