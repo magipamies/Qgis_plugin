@@ -2,28 +2,23 @@
 
 ![](icon/icon.png)
 
-The BuscaRecursos plugin generates a points vector layer for a certain type of
-OpenStreetMap amenity available in a city, wich it finds inside a particular
-area. This area is delimited by the location of a amenity's facility and a
-maximum distance.
+BuscaRecursos is a QGis plugin to look for city amenities close to a defined
+facility.
+Given an circular area defined by a facility (center) and a maximum distance
+(radius), plugin generates a points layer over OpenStreetMap map with all the
+target amenity instances found inside the area.
 
-
-The following dialog box is displayed when "BuscaRecursos" is launched.
-
-![](icon/formulari.png)
-
-
-You have to put:
- - City Name
- - Amenity's value name that you want to generate the layer
- - Maximum distance
- - Amenity's value name of facility
- - Facility name
+When "BuscaRecursos" is launched next dialog is opened, from where the user can
+set and execute the pluggin. Configurable variables are:
+- City name
+- Search criteria (amenity).
+- Maximum distance (target zone radius).
+- Facility type (amenity).
+- Facility name.
 
 
 ![](icon/formulari2.png)
 
-Read more in: [https://github.com/magipamies/qgis_BuscaRecursos_pluguin](https://github.com/magipamies/qgis_BuscaRecursos_pluguin)
 
 ## Installation
 
