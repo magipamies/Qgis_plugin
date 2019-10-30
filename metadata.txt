@@ -14,7 +14,10 @@ version=0.1
 author=Magí Pàmies Sans
 email=magipamies@gmail.com
 
-about=Plugin que permet obtenir una capa vectorial amb els recursos de la categoria seleccionada, que es troben dins de la distància determinada d'una entitat de referència.
+about=The BuscaRecursos plugin generates a points vector layer for a certain
+type of OpenStreetMap amenity available in a city, wich it finds inside a
+particular area. This area is delimited by the location of a amenity's facility
+and a maximum distance.
 
 tracker=https://github.com/magipamies/qgis_BuscaRecursos_pluguin
 repository=https://github.com/magipamies/qgis_BuscaRecursos_pluguin
