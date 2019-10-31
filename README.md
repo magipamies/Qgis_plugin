@@ -1,6 +1,5 @@
-# BuscaRecursos #
+# ![](icon/icon.png) BuscaRecursos #
 
-![](icon/icon.png)
 
 BuscaRecursos is a QGis plugin to look for city amenities near a defined
 facility.
