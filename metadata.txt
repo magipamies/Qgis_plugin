@@ -15,9 +15,9 @@ author=Magí Pàmies Sans
 email=magipamies@gmail.com
 
 about=BuscaRecursos is a QGis plugin to look for city amenities near a defined
-facility. Given a circular area defined by a facility (center) and a maximum
-distance (radius), plugin generates a points layer over OpenStreetMap map with
-all the target amenity instances found inside this area.
+  facility. Given a circular area defined by a facility (center) and a maximum
+  distance (radius), plugin generates a points layer over OpenStreetMap map with
+  all the target amenity instances found inside this area.
 
 tracker=https://github.com/magipamies/qgis_BuscaRecursos_pluguin
 repository=https://github.com/magipamies/qgis_BuscaRecursos_pluguin
